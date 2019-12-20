@@ -1,0 +1,6 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  2D_Main.cpp
+c:\users\kimsfamily\desktop\2d_sprite_tutorial3_슈팅_움직임_update\8장_2d_sprite_tutorial3_슈팅_움직임_update\2d_sprite_tutorial1\2d_main.cpp(413): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kimsfamily\desktop\2d_sprite_tutorial3_슈팅_움직임_update\8장_2d_sprite_tutorial3_슈팅_움직임_update\2d_sprite_tutorial1\2d_main.cpp(443): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kimsfamily\desktop\2d_sprite_tutorial3_슈팅_움직임_update\8장_2d_sprite_tutorial3_슈팅_움직임_update\2d_sprite_tutorial1\2d_main.cpp(453): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2D_sprite_tutorial1.vcxproj -> C:\Users\kimsfamily\Desktop\2D_sprite_tutorial3_슈팅_움직임_update\8장_2D_sprite_tutorial3_슈팅_움직임_update\Debug\2D_sprite_tutorial1.exe
